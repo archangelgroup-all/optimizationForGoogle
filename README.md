@@ -21,6 +21,6 @@ https://cdnjs.com/            облачное хранилище библиот
 https://learn.javascript.ru/         учебный материал по JS
 https://ru.stackoverflow.com/        
 http://jquery.page2page.ru/
-
+https://codepen.io/the_ruther4d/pen/mxMbqP/   lazyload для css свойства "bacground-images"
 
 
